@@ -1,0 +1,7 @@
+Sieve of Atkin
+Time for limit 10: 0seconds
+Time for limit 100: 0seconds
+Time for limit 1000: 0seconds
+Time for limit 10000: 0seconds
+Time for limit 100000: 0.2seconds
+Time for limit 1000000: 0.25seconds
